@@ -2,4 +2,4 @@ I am a fourth-year PhD student in the <a href='https://www.uu.nl/en/research/int
 
 I am Başak and prefer to be addressed with she and her pronouns.
 
-My primary research focus is on multi-criteria decision making (MCDM) with interactive data visualizations. 
+My primary research focus is on multi criteria decision making (MCDM) with interactive data visualizations. 
