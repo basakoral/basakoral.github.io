@@ -1,4 +1,4 @@
-I am a last year PhD student in the <a href='https://www.uu.nl/en/research/interaction/visualization-and-graphics'>Visualization and Graphics group</a> at <a href='https://www.uu.nl/en'>Utrecht University</a> supervised by Dr. Evanthia Dimara and Prof. Alexandru Telea. 
+I am a last year PhD candidate in the <a href='https://www.uu.nl/en/research/interaction/visualization-and-graphics'>Visualization and Graphics group</a> at <a href='https://www.uu.nl/en'>Utrecht University</a> supervised by Dr. Evanthia Dimara and Prof. Alexandru Telea. 
 
 I am Başak and prefer to be addressed with she/her pronouns.
 
